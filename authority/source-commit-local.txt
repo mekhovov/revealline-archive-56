@@ -1,0 +1,26 @@
+tree 6d85b9096d089b740a9eacf5e38eb5ebdfce5874
+parent b29ecab57f79862aa0349e32f6b9be9723b2369f
+parent ca0f4469038ed029608d990bde02682856c28158
+author Oleksandr Mekhovov <oleksandr.mekhovov@coupa.com> 1790119915 +0200
+committer GitHub <noreply@github.com> 1790119915 +0200
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsFcBAABCAAQBQJqsw/rCRC1aQ7uu5UhlAAAOu0QABwRdxOENN0nMhQ7kIsMB6pb
+ 4nHcLAuOR/8JJpfklpIS+eV70Moa2cWSo+xZDl0TndzSIkYjVQZNXpGxv9mnrAhi
+ xMImhE/UyThxfot7NTtjQIS+B+eWyKqj3OpAGsDk2X1gtKzQ/AUnWaHB8O1TryeQ
+ jOr12i2HdOKfAXL9tK6PzaUhSelU1zk/rZ/DY5AL201nzj9nbjqSMBGYIhdJrYiG
+ C4flJ2AhsXGO5DPutnTuTbMSfMOsxTS/4/CvkgeqDdDsz62HZTh5uj1geQNJ/TQ5
+ aKPPg+cgMEfOXEhHSD+PqXZZnn8+/N6UU6S0n0t1W0iv9QDnsLgWV0kOF/e6zZbT
+ rL9Q67ioSuC70dnKEyp03vS/F+Z0hkkrP1pLB8MoskNFdShr7MObrtEtPx+ISDgR
+ lYevHazt4w1+KJY4SDFzgZgy/n0bMECTDV/XX1DII3jDc8xHA2SSHdrQDM2hdbyX
+ 0ygH881SfjeOgbO+Qeb7DjQmbZL85qFD51SYWIenVY7WJzOnEVZWQ9QqE5etDms+
+ 87OO1XiMb0OlQJZIkH9fT2JpkCJAi/PzP+4teUr8k5f0KirpdRHPQUZubi752iat
+ bYpO0NjHFb4YcbItWvJHNpx+/01j7LBnC9/sFxCB99V58wEpqV15DpKOl5qr/Kwz
+ vouIFLEPxVt4+Q/tiMXv
+ =ldlK
+ -----END PGP SIGNATURE-----
+ 
+
+Merge pull request #279 from mekhovov/codex/xposed-motion-defaults
+
+feat: Xposed-paced movement defaults (v0.87.0)
